@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 37cdd714582f8664f95d5fe5a6069767
+timeCreated: 1537428051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: model1:DOG
+    100002: model1:DZH:Bip001
+    100004: model1:DZH:Bip001 ear 1
+    100006: model1:DZH:Bip001 ear 1_ctrl
+    100008: model1:DZH:Bip001 ear 1_grp
+    100010: model1:DZH:Bip001 ear 2
+    100012: model1:DZH:Bip001 ear 2_ctrl
+    100014: model1:DZH:Bip001 ear 2_grp
+    100016: model1:DZH:Bip001 Footsteps
+    100018: model1:DZH:Bip001 Head
+    100020: model1:DZH:Bip001 Head_ctrl
+    100022: model1:DZH:Bip001 Head_grp
+    100024: model1:DZH:Bip001 L Calf
+    100026: model1:DZH:Bip001 L Calf_ctrl
+    100028: model1:DZH:Bip001 L Calf_grp
+    100030: model1:DZH:Bip001 L Clavicle
+    100032: model1:DZH:Bip001 L Finger0
+    100034: model1:DZH:Bip001 L Foot
+    100036: model1:DZH:Bip001 L Foot_ctrl
+    100038: model1:DZH:Bip001 L Foot_grp
+    100040: model1:DZH:Bip001 L Forearm
+    100042: model1:DZH:Bip001 L Forearm_ctrl
+    100044: model1:DZH:Bip001 L Forearm_grp
+    100046: model1:DZH:Bip001 L Hand
+    100048: model1:DZH:Bip001 L Thigh
+    100050: model1:DZH:Bip001 L Thigh_ctrl
+    100052: model1:DZH:Bip001 L Thigh_grp
+    100054: model1:DZH:Bip001 L Toe0
+    100056: model1:DZH:Bip001 L UpperArm
+    100058: model1:DZH:Bip001 L UpperArm_ctrl
+    100060: model1:DZH:Bip001 L UpperArm_grp
+    100062: model1:DZH:Bip001 Neck
+    100064: model1:DZH:Bip001 Neck_ctrl
+    100066: model1:DZH:Bip001 Neck_grp
+    100068: model1:DZH:Bip001 Pelvis
+    100070: model1:DZH:Bip001 R Calf
+    100072: model1:DZH:Bip001 R Calf_ctrl
+    100074: model1:DZH:Bip001 R Calf_grp
+    100076: model1:DZH:Bip001 R Clavicle
+    100078: model1:DZH:Bip001 R Finger0
+    100080: model1:DZH:Bip001 R Foot
+    100082: model1:DZH:Bip001 R Foot_ctrl
+    100084: model1:DZH:Bip001 R Foot_grp
+    100086: model1:DZH:Bip001 R Forearm
+    100088: model1:DZH:Bip001 R Forearm_ctrl
+    100090: model1:DZH:Bip001 R Forearm_grp
+    100092: model1:DZH:Bip001 R Hand
+    100094: model1:DZH:Bip001 R Thigh
+    100096: model1:DZH:Bip001 R Thigh_ctrl
+    100098: model1:DZH:Bip001 R Thigh_grp
+    100100: model1:DZH:Bip001 R Toe0
+    100102: model1:DZH:Bip001 R UpperArm
+    100104: model1:DZH:Bip001 R UpperArm_ctrl
+    100106: model1:DZH:Bip001 R UpperArm_grp
+    100108: model1:DZH:Bip001 Spine
+    100110: model1:DZH:Bip001 Spine_ctrl
+    100112: model1:DZH:Bip001 Spine_grp
+    100114: model1:DZH:Bip001 Tail_grp
+    100116: model1:DZH:Bip001_ctrl
+    100118: model1:DZH:Bip001_grp
+    100120: model1:DZH:Dummy001
+    100122: model1:DZH:Dummy001_ctrl
+    100124: model1:DZH:Dummy001_grp
+    100126: model1:DZH:Dummy002
+    100128: model1:DZH:Dummy002_ctrl
+    100130: model1:DZH:Dummy002_grp
+    100132: model1:DZH:Dummy003
+    100134: model1:DZH:Dummy003_ctrl
+    100136: model1:DZH:Dummy003_grp
+    100138: model1:DZH:Dummy004
+    100140: model1:DZH:Dummy004_ctrl
+    100142: model1:DZH:Dummy004_grp
+    100144: model1:DZH:transform1
+    100146: model1:DZH:transform10
+    100148: model1:DZH:transform11
+    100150: model1:DZH:transform12
+    100152: model1:DZH:transform13
+    100154: model1:DZH:transform14
+    100156: model1:DZH:transform15
+    100158: model1:DZH:transform16
+    100160: model1:DZH:transform17
+    100162: model1:DZH:transform18
+    100164: model1:DZH:transform19
+    100166: model1:DZH:transform2
+    100168: model1:DZH:transform20
+    100170: model1:DZH:transform4
+    100172: model1:DZH:transform5
+    100174: model1:DZH:transform6
+    100176: model1:DZH:transform7
+    100178: model1:DZH:transform8
+    100180: model1:DZH:transform9
+    100182: model1:houyou
+    100184: model1:houyoujiao
+    100186: model1:houzuo
+    100188: model1:houzuojiao
+    100190: model1:joint1
+    100192: model1:joint1_ctrl
+    100194: model1:joint1_grp
+    100196: model1:qianyou
+    100198: model1:qianyoujiao
+    100200: model1:qianzoujiao
+    100202: model1:QIANzuo
+    100204: model1:shenti
+    100206: model1:tou2
+    100208: model1:transform1
+    100210: model1:transform2
+    100212: model1:weiba
+    100214: model1:youer
+    100216: model1:zuoer
+    100218: //RootNode
+    400000: model1:DOG
+    400002: model1:DZH:Bip001
+    400004: model1:DZH:Bip001 ear 1
+    400006: model1:DZH:Bip001 ear 1_ctrl
+    400008: model1:DZH:Bip001 ear 1_grp
+    400010: model1:DZH:Bip001 ear 2
+    400012: model1:DZH:Bip001 ear 2_ctrl
+    400014: model1:DZH:Bip001 ear 2_grp
+    400016: model1:DZH:Bip001 Footsteps
+    400018: model1:DZH:Bip001 Head
+    400020: model1:DZH:Bip001 Head_ctrl
+    400022: model1:DZH:Bip001 Head_grp
+    400024: model1:DZH:Bip001 L Calf
+    400026: model1:DZH:Bip001 L Calf_ctrl
+    400028: model1:DZH:Bip001 L Calf_grp
+    400030: model1:DZH:Bip001 L Clavicle
+    400032: model1:DZH:Bip001 L Finger0
+    400034: model1:DZH:Bip001 L Foot
+    400036: model1:DZH:Bip001 L Foot_ctrl
+    400038: model1:DZH:Bip001 L Foot_grp
+    400040: model1:DZH:Bip001 L Forearm
+    400042: model1:DZH:Bip001 L Forearm_ctrl
+    400044: model1:DZH:Bip001 L Forearm_grp
+    400046: model1:DZH:Bip001 L Hand
+    400048: model1:DZH:Bip001 L Thigh
+    400050: model1:DZH:Bip001 L Thigh_ctrl
+    400052: model1:DZH:Bip001 L Thigh_grp
+    400054: model1:DZH:Bip001 L Toe0
+    400056: model1:DZH:Bip001 L UpperArm
+    400058: model1:DZH:Bip001 L UpperArm_ctrl
+    400060: model1:DZH:Bip001 L UpperArm_grp
+    400062: model1:DZH:Bip001 Neck
+    400064: model1:DZH:Bip001 Neck_ctrl
+    400066: model1:DZH:Bip001 Neck_grp
+    400068: model1:DZH:Bip001 Pelvis
+    400070: model1:DZH:Bip001 R Calf
+    400072: model1:DZH:Bip001 R Calf_ctrl
+    400074: model1:DZH:Bip001 R Calf_grp
+    400076: model1:DZH:Bip001 R Clavicle
+    400078: model1:DZH:Bip001 R Finger0
+    400080: model1:DZH:Bip001 R Foot
+    400082: model1:DZH:Bip001 R Foot_ctrl
+    400084: model1:DZH:Bip001 R Foot_grp
+    400086: model1:DZH:Bip001 R Forearm
+    400088: model1:DZH:Bip001 R Forearm_ctrl
+    400090: model1:DZH:Bip001 R Forearm_grp
+    400092: model1:DZH:Bip001 R Hand
+    400094: model1:DZH:Bip001 R Thigh
+    400096: model1:DZH:Bip001 R Thigh_ctrl
+    400098: model1:DZH:Bip001 R Thigh_grp
+    400100: model1:DZH:Bip001 R Toe0
+    400102: model1:DZH:Bip001 R UpperArm
+    400104: model1:DZH:Bip001 R UpperArm_ctrl
+    400106: model1:DZH:Bip001 R UpperArm_grp
+    400108: model1:DZH:Bip001 Spine
+    400110: model1:DZH:Bip001 Spine_ctrl
+    400112: model1:DZH:Bip001 Spine_grp
+    400114: model1:DZH:Bip001 Tail_grp
+    400116: model1:DZH:Bip001_ctrl
+    400118: model1:DZH:Bip001_grp
+    400120: model1:DZH:Dummy001
+    400122: model1:DZH:Dummy001_ctrl
+    400124: model1:DZH:Dummy001_grp
+    400126: model1:DZH:Dummy002
+    400128: model1:DZH:Dummy002_ctrl
+    400130: model1:DZH:Dummy002_grp
+    400132: model1:DZH:Dummy003
+    400134: model1:DZH:Dummy003_ctrl
+    400136: model1:DZH:Dummy003_grp
+    400138: model1:DZH:Dummy004
+    400140: model1:DZH:Dummy004_ctrl
+    400142: model1:DZH:Dummy004_grp
+    400144: model1:DZH:transform1
+    400146: model1:DZH:transform10
+    400148: model1:DZH:transform11
+    400150: model1:DZH:transform12
+    400152: model1:DZH:transform13
+    400154: model1:DZH:transform14
+    400156: model1:DZH:transform15
+    400158: model1:DZH:transform16
+    400160: model1:DZH:transform17
+    400162: model1:DZH:transform18
+    400164: model1:DZH:transform19
+    400166: model1:DZH:transform2
+    400168: model1:DZH:transform20
+    400170: model1:DZH:transform4
+    400172: model1:DZH:transform5
+    400174: model1:DZH:transform6
+    400176: model1:DZH:transform7
+    400178: model1:DZH:transform8
+    400180: model1:DZH:transform9
+    400182: model1:houyou
+    400184: model1:houyoujiao
+    400186: model1:houzuo
+    400188: model1:houzuojiao
+    400190: model1:joint1
+    400192: model1:joint1_ctrl
+    400194: model1:joint1_grp
+    400196: model1:qianyou
+    400198: model1:qianyoujiao
+    400200: model1:qianzoujiao
+    400202: model1:QIANzuo
+    400204: model1:shenti
+    400206: model1:tou2
+    400208: model1:transform1
+    400210: model1:transform2
+    400212: model1:weiba
+    400214: model1:youer
+    400216: model1:zuoer
+    400218: //RootNode
+    4300000: model1:tou2
+    4300002: model1:zuoer
+    4300004: model1:youer
+    4300006: model1:shenti
+    4300008: model1:weiba
+    4300010: model1:qianzoujiao
+    4300012: model1:houzuojiao
+    4300014: model1:houyoujiao
+    4300016: model1:qianyoujiao
+    4300018: model1:QIANzuo
+    4300020: model1:houyou
+    4300022: model1:qianyou
+    4300024: model1:houzuo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: model1:houyou
+    13700002: model1:houyoujiao
+    13700004: model1:houzuo
+    13700006: model1:houzuojiao
+    13700008: model1:qianyou
+    13700010: model1:qianyoujiao
+    13700012: model1:qianzoujiao
+    13700014: model1:QIANzuo
+    13700016: model1:shenti
+    13700018: model1:tou2
+    13700020: model1:weiba
+    13700022: model1:youer
+    13700024: model1:zuoer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: model1:DOG
+        weight: 1
+      - path: model1:DOG/model1:houyou
+        weight: 1
+      - path: model1:DOG/model1:houyoujiao
+        weight: 1
+      - path: model1:DOG/model1:houzuo
+        weight: 1
+      - path: model1:DOG/model1:houzuojiao
+        weight: 1
+      - path: model1:DOG/model1:qianyou
+        weight: 1
+      - path: model1:DOG/model1:qianyoujiao
+        weight: 1
+      - path: model1:DOG/model1:qianzoujiao
+        weight: 1
+      - path: model1:DOG/model1:QIANzuo
+        weight: 1
+      - path: model1:DOG/model1:shenti
+        weight: 1
+      - path: model1:DOG/model1:tou2
+        weight: 1
+      - path: model1:DOG/model1:weiba
+        weight: 1
+      - path: model1:DOG/model1:youer
+        weight: 1
+      - path: model1:DOG/model1:zuoer
+        weight: 1
+      - path: model1:DZH:Bip001_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Footsteps
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Bip001 L Foot_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Bip001 L Foot_grp/model1:DZH:Bip001 L Foot_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Bip001 L Foot_grp/model1:DZH:Bip001 L Foot_ctrl/model1:DZH:transform13
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Bip001 L Foot_grp/model1:DZH:Bip001 L Foot_ctrl/model1:DZH:transform13/model1:DZH:Bip001
+          L Foot
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Bip001 L Foot_grp/model1:DZH:Bip001 L Foot_ctrl/model1:DZH:transform13/model1:DZH:Bip001
+          L Foot/model1:DZH:Bip001 L Toe0
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Dummy003_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Dummy003_grp/model1:DZH:Dummy003_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Dummy003_grp/model1:DZH:Dummy003_ctrl/model1:DZH:transform18
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 L Thigh_grp/model1:DZH:Bip001 L Thigh_ctrl/model1:DZH:transform10/model1:DZH:Bip001
+          L Thigh/model1:DZH:Bip001 L Calf_grp/model1:DZH:Bip001 L Calf_ctrl/model1:DZH:transform7/model1:DZH:Bip001
+          L Calf/model1:DZH:Dummy003_grp/model1:DZH:Dummy003_ctrl/model1:DZH:transform18/model1:DZH:Dummy003
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 1_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 1_grp/model1:DZH:Bip001 ear 1_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 1_grp/model1:DZH:Bip001 ear 1_ctrl/model1:DZH:transform15
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 1_grp/model1:DZH:Bip001 ear 1_ctrl/model1:DZH:transform15/model1:DZH:Bip001
+          ear 1
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 2_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 2_grp/model1:DZH:Bip001 ear 2_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 2_grp/model1:DZH:Bip001 ear 2_ctrl/model1:DZH:transform16
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 Head_grp/model1:DZH:Bip001 Head_ctrl/model1:DZH:transform14/model1:DZH:Bip001
+          Head/model1:DZH:Bip001 ear 2_grp/model1:DZH:Bip001 ear 2_ctrl/model1:DZH:transform16/model1:DZH:Bip001
+          ear 2
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 L Clavicle
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 L Clavicle/model1:DZH:Bip001 L UpperArm_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 L Clavicle/model1:DZH:Bip001 L UpperArm_grp/model1:DZH:Bip001
+          L UpperArm_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 L Clavicle/model1:DZH:Bip001 L UpperArm_grp/model1:DZH:Bip001
+          L UpperArm_ctrl/model1:DZH:transform5
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Bip001 R Hand
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Bip001 R Hand/model1:DZH:Bip001 R Finger0
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Dummy001_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Dummy001_grp/model1:DZH:Dummy001_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Dummy001_grp/model1:DZH:Dummy001_ctrl/model1:DZH:transform20
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Neck_grp/model1:DZH:Bip001 Neck_ctrl/model1:DZH:transform1/model1:DZH:Bip001
+          Neck/model1:DZH:Bip001 R Clavicle/model1:DZH:Bip001 R UpperArm_grp/model1:DZH:Bip001
+          R UpperArm_ctrl/model1:DZH:transform4/model1:DZH:Bip001 R UpperArm/model1:DZH:Bip001
+          R Forearm_grp/model1:DZH:Bip001 R Forearm_ctrl/model1:DZH:transform11/model1:DZH:Bip001
+          R Forearm/model1:DZH:Dummy001_grp/model1:DZH:Dummy001_ctrl/model1:DZH:transform20/model1:DZH:Dummy001
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Bip001 R Foot_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Bip001 R Foot_grp/model1:DZH:Bip001 R Foot_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Bip001 R Foot_grp/model1:DZH:Bip001 R Foot_ctrl/model1:DZH:transform12
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Bip001 R Foot_grp/model1:DZH:Bip001 R Foot_ctrl/model1:DZH:transform12/model1:DZH:Bip001
+          R Foot
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Bip001 R Foot_grp/model1:DZH:Bip001 R Foot_ctrl/model1:DZH:transform12/model1:DZH:Bip001
+          R Foot/model1:DZH:Bip001 R Toe0
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Dummy002_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Dummy002_grp/model1:DZH:Dummy002_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Dummy002_grp/model1:DZH:Dummy002_ctrl/model1:DZH:transform19
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 R Thigh_grp/model1:DZH:Bip001 R Thigh_ctrl/model1:DZH:transform9/model1:DZH:Bip001
+          R Thigh/model1:DZH:Bip001 R Calf_grp/model1:DZH:Bip001 R Calf_ctrl/model1:DZH:transform8/model1:DZH:Bip001
+          R Calf/model1:DZH:Dummy002_grp/model1:DZH:Dummy002_ctrl/model1:DZH:transform19/model1:DZH:Dummy002
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:DZH:Bip001 Tail_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:transform2
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:transform2/model1:joint1_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:transform2/model1:joint1_grp/model1:joint1_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:DZH:transform2/model1:DZH:Bip001
+          Spine/model1:transform2/model1:joint1_grp/model1:joint1_ctrl/model1:joint1
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Bip001 L Hand
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Bip001 L Hand/model1:DZH:Bip001 L Finger0
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Dummy004_grp
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Dummy004_grp/model1:DZH:Dummy004_ctrl
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Dummy004_grp/model1:DZH:Dummy004_ctrl/model1:DZH:transform17
+        weight: 1
+      - path: model1:DZH:Bip001_grp/model1:DZH:Bip001_ctrl/model1:DZH:Bip001/model1:DZH:Bip001
+          Pelvis/model1:DZH:Bip001 Spine_grp/model1:DZH:Bip001 Spine_ctrl/model1:transform1/model1:DZH:Bip001
+          L UpperArm/model1:DZH:Bip001 L Forearm_grp/model1:DZH:Bip001 L Forearm_ctrl/model1:DZH:transform6/model1:DZH:Bip001
+          L Forearm/model1:DZH:Dummy004_grp/model1:DZH:Dummy004_ctrl/model1:DZH:transform17/model1:DZH:Dummy004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
